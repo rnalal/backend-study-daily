@@ -21,9 +21,9 @@ GitHub에 기록하며 나만의 기술 아카이브를 만들기 위해 시작�
 ---
 
 ## 🛠 사용 기술 스택
-- Language : Java 17
-- Build Tool : Maven
-- Framework : Spring Boot 3.5.4
-- IDE : Intellij IDEA
-- Database : MySQL
+- **Language**: Java 17  
+- **Framework**: Spring Boot 3.5.4 (Spring MVC, JPA)  
+- **Database**: MySQL  
+- **Build Tool**: Maven  
+- **IDE**: IntelliJ IDEA
 
